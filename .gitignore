@@ -1,0 +1,11 @@
+conf/.env
+__pycache__
+conf/__pycache__
+character/__pycache__
+archive/__pycache__
+note/__pycache__
+status/__pycache__
+user/__pycache__
+library/__pycache__
+env
+.special
